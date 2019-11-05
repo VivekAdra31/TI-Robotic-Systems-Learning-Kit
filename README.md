@@ -1,7 +1,7 @@
 # TI-Robotic-Systems-Learning-Kit
 
 ## The Texas Instruments Robotic System Learning Kit (RSLK) consist of:
-1. a MSP432 Launchpad : MSP432, an ARM Cortex M4F processor, act as a main controller to a robotic system.
+1. MSP432 Launchpad : MSP432, an **ARM Cortex M4F** processor, act as a main controller to a robotic system.
 1. DC motors
 1. IR Sensor for measuring distance to an obstacle
 1. Reflectance sensor to detect the presence of a colour line below the robot, 
